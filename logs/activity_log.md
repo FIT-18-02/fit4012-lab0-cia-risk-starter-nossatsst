@@ -14,6 +14,7 @@
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải:khong co
+- Cách em xử lý: de
+- Điều em học được từ bài lab:lenh git
+2026-04-03: Clone repo và hoàn thành file lab1_answers.md
